@@ -9,3 +9,7 @@
  -- > `npm build` diyerek projeyi build edebilirsiniz
  
  -- > `npm test` diyerek projede yazilan testleri gorebilirsiniz.
+
+
+Demo
+https://feedbacky-frontend.herokuapp.com/
