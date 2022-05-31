@@ -7,7 +7,7 @@ import TableContainer from "@mui/material/TableContainer";
 import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
-
+import './styles.css';
 export const ListFeedBack = () => {
   const [data, setData] = useState([]);
 
@@ -54,7 +54,7 @@ export const ListFeedBack = () => {
                   <TableCell component="th" scope="row">
                     {row.domain}
                   </TableCell>
-                  <TableCell align="right">{row.feedback}</TableCell>
+                  <TableCell align="right"><div className='feedback-cell'>{row.feedback}</div></TableCell>
                 </TableRow>
               ))}
             </TableBody>

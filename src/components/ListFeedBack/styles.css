@@ -1,0 +1,6 @@
+.feedback-cell{
+    width: 350px;
+    height: 50px;
+    overflow-y: auto;
+    word-wrap:break-word;
+}
