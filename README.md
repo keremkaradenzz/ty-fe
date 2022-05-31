@@ -8,4 +8,4 @@
  
  -- > `npm build` diyerek projeyi build edebilirsiniz
  
- -- > `npm test` diyerek projeyede yazilan testleri gorebilirsiniz.
+ -- > `npm test` diyerek projede yazilan testleri gorebilirsiniz.
